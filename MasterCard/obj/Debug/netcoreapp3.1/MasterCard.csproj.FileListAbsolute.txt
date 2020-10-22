@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\MasterCard\MasterCard\obj\Debug\netcoreapp3.1\MasterCard.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\MasterCard\MasterCard\obj\Debug\netcoreapp3.1\MasterCard.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\MasterCard\MasterCard\obj\Debug\netcoreapp3.1\MasterCard.AssemblyInfo.cs
+C:\Users\opilane\source\repos\MasterCard\MasterCard\obj\Debug\netcoreapp3.1\MasterCard.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\MasterCard\MasterCard\bin\Debug\netcoreapp3.1\MasterCard.exe
+C:\Users\opilane\source\repos\MasterCard\MasterCard\bin\Debug\netcoreapp3.1\MasterCard.deps.json
+C:\Users\opilane\source\repos\MasterCard\MasterCard\bin\Debug\netcoreapp3.1\MasterCard.runtimeconfig.json
+C:\Users\opilane\source\repos\MasterCard\MasterCard\bin\Debug\netcoreapp3.1\MasterCard.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\MasterCard\MasterCard\bin\Debug\netcoreapp3.1\MasterCard.dll
+C:\Users\opilane\source\repos\MasterCard\MasterCard\bin\Debug\netcoreapp3.1\MasterCard.pdb
+C:\Users\opilane\source\repos\MasterCard\MasterCard\obj\Debug\netcoreapp3.1\MasterCard.dll
+C:\Users\opilane\source\repos\MasterCard\MasterCard\obj\Debug\netcoreapp3.1\MasterCard.pdb
+C:\Users\opilane\source\repos\MasterCard\MasterCard\obj\Debug\netcoreapp3.1\MasterCard.genruntimeconfig.cache

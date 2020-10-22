@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\opilane\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\opilane\\.nuget\\packages"
+    ]
+  }
+}
